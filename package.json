@@ -1,8 +1,8 @@
 {
-  "name": "09-10-2019",
-  "version": "0.0.0",
+  "name": "chart.js",
+  "version": "1.0.0",
   "babel": {},
-  "description": "project description",
+  "description": "a new chart.js project",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
