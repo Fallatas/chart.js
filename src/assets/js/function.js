@@ -22,7 +22,17 @@ $(document).ready(function(){
                 backgroundColor: 'rgba(255,0,0,0.4)',
                 borderColor: 'rgba(255,0,0,0.4)',
                 data: [5,6,2,5,6,5,5,4 /* mydata */]
-            }]
+            }],
+            
+            options: {
+                scales: {
+                    yAxes: [{
+                        ticks: {
+                            beginAtZero: true
+                        }
+                    }]
+                }
+            }
     
     
         }
